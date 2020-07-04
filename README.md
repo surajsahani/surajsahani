@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Github
 - 💬 Ask me about technology
 - 📫 How to reach me: surajkumarsahani1997@gmail.com
-- 😄 Pronouns: He/His <3
+- 😄 Pronouns: He
 - ⚡ Fun fact: My nickname growing up was “martial.”
 
