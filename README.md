@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning Android Development
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on My Project SoundPlay
 - 🤔 I’m looking for help with Github
-- 💬 Ask me about technology
+- 💬 Ask me about Mobile Development
 - 📫 How to reach me: surajkumarsahani1997@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: My nickname growing up was “martial.”
