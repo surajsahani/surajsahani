@@ -6,13 +6,13 @@
 
 Here are some ideas to get you started:
 -->
-### I'm a passionate about building fundamental component of that underpin great android. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.
+### I'm a passionate about building fundamental component that underpin great android. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning Android Development
-- 👯 I’m looking to collaborate on My Project SoundPlay
+- 👯 I’m looking to collaborate on My Project Friendly Chat
 - 🤔 I’m looking for help with Github
-- 💬 Ask me about Mobile Development
+- 💬 Ask me about Android Development
 - 📫 How to reach me: surajkumarsahani1997@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: My nickname growing up was “martial.”
+- ⚡ Fun fact: I am sloth.
 
