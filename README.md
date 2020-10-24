@@ -2,7 +2,6 @@
 # I'm Suraj
 
 ![Visitor Count](https://profile-counter.glitch.me/{surajsahani}/count.svg)
-git status [-s​] [--] [<pathspec>…​]
 
 
 <!--
