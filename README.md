@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Suraj
 
-![Visitor Count](https://profile-counter.glitch.me{surajsahani}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{surajsahani}/count.svg)
 
 <!--
 **surajsahani/surajsahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
