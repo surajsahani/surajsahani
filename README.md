@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: surajkumarsahani1997@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am sloth.
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
