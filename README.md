@@ -1,6 +1,8 @@
 ### Hi there 👋
 # I'm Suraj
 
+![Visitor Count](https://profile-counter.glitch.me/{surajsahani}/count.svg)
+
 <!--
 **surajsahani/surajsahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: surajkumarsahani1997@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I can sleep 24 hours a day.
-![Visitor Count](https://profile-counter.glitch.me/{surajsahani}/count.svg)
 
 
