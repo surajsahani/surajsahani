@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Suraj
 
-![Visitor Count](https://github.com/{surajsahani}/count.svg)
+![Visitor Count](https://github.com/surajsahani{surajsahani}/count.svg)
 profile-counter.glitch.me
 
 <!--
