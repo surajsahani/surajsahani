@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on My Project Friendly Chat
 - 🤔 I’m looking for help with Github
 - 💬 Ask me about Android Development
-- 📫 How to reach me: surajkumarsahani1997@gmail.com <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+- 📫 How to reach me: surajkumarsahani1997@gmail.com 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I can sleep 24 hours a day.
 
