@@ -1,12 +1,6 @@
 ### Hi there 👋
 # I'm Suraj
 
-# The first largest heading
-## The second largest heading
-### The third largest heading
-#### The four largest heading
-##### The five largest heading
-###### The smallest heading
 ![Visitor Count](https://profile-counter.glitch.me/{surajsahani}/count.svg)
 
 
