@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ### I'm a passionate about building fundamental component that underpin great android. I love exploring new technologies and currently learning new skills.
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning Android Development
-- 👯 I’m looking to collaborate on My Project Friendly Chat
+- 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with Github
 - 💬 Ask me about Android Development
 - 📫 How to reach me: surajkumarsahani1997@gmail.com 
