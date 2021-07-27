@@ -1,3 +1,4 @@
+![62773-yoga-developer](https://user-images.githubusercontent.com/22853459/127118533-4109716b-943e-4231-86a8-409bdcbdf10b.gif)
 ### Hi there 👋
 # I'm Suraj
 
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Jetpack Compose
 - 🌱 I’m currently learning System Design <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/22853459/127115627-165a04a6-a583-4b98-afde-617e5d9d14b1.gif">
 
+![62773-yoga-developer](https://user-images.githubusercontent.com/22853459/127118633-a3538125-b35b-4ed2-a921-385c87e40ecc.gif)
 
 
 - 👯 I’m looking to collaborate on Android 
