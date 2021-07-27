@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning System Design
 - 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with Data Structures and Algorithms
-- 💬 Ask me about Android Development
+- 💬 Ask me about Android Development <div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
 - 📫 How to reach me: surajkumarsahani1997@gmail.com 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I can sleep 24 hours a day.
