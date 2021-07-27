@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Jetpack Compose
 - 🌱 I’m currently learning System Design <img align="right" width="100" height="100" src="https://assets9.lottiefiles.com/packages/lf20_mCoRxU.json">
 
-- 👯 I’m looking to collaborate on Android
+- 👯 I’m looking to collaborate on Android <img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="250" />
+
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about Android Development <div align="center">
 - 📫 How to reach me: surajkumarsahani1997@gmail.com 
