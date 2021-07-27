@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### I'm extremely enthusiastic about life, believe that life is too short to work on things that don't interest you, and I'm always on the hunt for learning something new.
 ### I'm a passionate about building fundamental component that underpin great android. I love exploring new technologies and currently learning new skills.
 - 🔭 I’m currently working on Jetpack Compose
-- 🌱 I’m currently learning System Design </a>  <a href="https://play.google.com/store/apps/dev?id=8460495759436830961"><img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/22853459/127115627-165a04a6-a583-4b98-afde-617e5d9d14b1.gif"></a>
+- 🌱 I’m currently learning System Design </a>  <a href="https://play.google.com/store/apps/dev?id=8460495759436830961"><img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/22853459/127161740-7b70d2a1-d121-4422-9e30-a490cb134a47.gif"></a>
 
 
 
