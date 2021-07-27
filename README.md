@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <a href="https://play.google.com/store/apps/details?id=com.martialcoder.soundplay">
     <img alt="Get it on Google Play"
         height="80"
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+        src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>  
