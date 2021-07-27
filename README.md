@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### I'm extremely enthusiastic about life, believe that life is too short to work on things that don't interest you, and I'm always on the hunt for learning something new.
 ### I'm a passionate about building fundamental component that underpin great android. I love exploring new technologies and currently learning new skills.
 - 🔭 I’m currently working on Android Jetpack
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Android System Design
 - 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about Android Development
