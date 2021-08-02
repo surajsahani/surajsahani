@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Android Development <div align="center">
 - 📫 How to reach me: surajkumarsahani1997@gmail.com 
-- 😄 Pronouns: He
-- ⚡ Fun fact: I can sleep 24 hours a day.
+
 
 ### Languages and Tools
 <p align="left">
