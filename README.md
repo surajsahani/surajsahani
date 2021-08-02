@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 
 
-- 👯 I’m looking to collaborate on Android 
-
-- 🤔 I’m looking for help with Data Structures and Algorithms
+- 👯 Mostly working on Android, Kotlin!
 - 💬 Ask me about Android Development <div align="center">
 - 📫 How to reach me: surajkumarsahani1997@gmail.com 
 - 😄 Pronouns: He
