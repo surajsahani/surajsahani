@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 ### I'm extremely enthusiastic about life, believe that life is too short to work on things that don't interest you, and I'm always on the hunt for learning something new.
 ### I'm a passionate about building fundamental component that underpin great android. I love exploring new technologies and currently learning new skills.
-- 🔭 Mostly working on Android, Kotlin!<a href="https://surajsahani.github.io/"><img align="right" width="300" height="300" src=![WhatsApp Image 2021-10-23 at 6 08 38 PM (1)](https://user-images.githubusercontent.com/22853459/138556539-7e58168a-9472-4c7d-b3f1-7fef1f2688b0.jpeg"></a>
+- 🔭 Mostly working on Android, Kotlin!<a href="https://surajsahani.github.io/"><img align="right" width="300" height="300" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
 - 🌱 I’m currently learning System Design 
 
 
