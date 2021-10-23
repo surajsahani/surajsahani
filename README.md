@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 ### Languages and Tools
 <p align="left">
 <a href="https://play.google.com/store/apps/dev?id=8460495759436830961">
-<img alt="Play Store" src="![WhatsApp Image 2021-10-23 at 6 08 38 PM (1)](https://user-images.githubusercontent.com/22853459/138556539-7e58168a-9472-4c7d-b3f1-7fef1f2688b0.jpeg)
-"/>
+<img alt="Play Store" src="<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>  <a href="https://developers.google.com/profile/u/110228110931615430421"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 	<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> <a href="https://play.google.com/store/apps/dev?id=8460495759436830961">
 
   If you have found anything useful and you want to support me, then Buy me a Coffee, and many thanks in advance.
