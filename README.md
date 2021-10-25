@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 ### I'm a passionate about building fundamental component that underpin great android. I love exploring new technologies and currently learning new skills.
 - 🔭 Mostly working on Android, Kotlin!<a href="https://surajsahani.github.io/"><img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/22853459/127254605-cb1020a4-f55a-4c9f-9d40-05be7c9d8e23.gif"></a>
 - 🌱 I’m currently learning System Design, Design Patterns and Jetpack Compose.
-
+writing_hand Writing tech blog posts over my Blog Page to help more developers learn from my experience.
+- 🥋 When I'm not coding, find me on practicing Kyokushin!
 
 
 - 💬 Ask me about Android Development <div align="center">
