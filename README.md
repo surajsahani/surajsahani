@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-👨‍🎓 I am Suraj Sahani, an graduate at MDU, Rhotak.<br>🔭 Mostly working on Android, Kotlin!<a href="https://surajsahani.github.io/"><img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/22853459/127254605-cb1020a4-f55a-4c9f-9d40-05be7c9d8e23.gif"></a><br>🌱 I’m currently learning System Design, Design Patterns and Jetpack Compose.<br>✍️ Writing tech blog posts over my <a href="https://medium.com/@martialcoder">Blog Page</a>to help more developers learn from my experience.<br>💬 Ask me about Android Development<br>- 🥋 When I'm not coding, find me on practicing Kyokushin!<br>📫 How to reach me: surajkumarsahani1997@gmail.com 
+👨‍🎓 I am Suraj Sahani, an graduate at MDU, Rhotak.<br>🔭 Mostly working on Android, Kotlin!<a href="https://surajsahani.github.io/"><img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/22853459/127254605-cb1020a4-f55a-4c9f-9d40-05be7c9d8e23.gif"></a><br>🌱 I’m currently learning System Design, Design Patterns and Jetpack Compose.<br>✍️ Writing tech blog posts over my <a href="https://medium.com/@martialcoder">Blog Page</a>to help more developers learn from my experience.<br>💬 Ask me about Android Development<br>🥋 When I'm not coding, find me on practicing Kyokushin!<br>📫 How to reach me: surajkumarsahani1997@gmail.com 
 
 
 ### Languages and Tools
