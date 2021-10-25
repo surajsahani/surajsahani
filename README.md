@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 Links where you can find me!
 📌   <a href="https://medium.com/@martialcoder">Website</a><br>
 📌   <a href="https://medium.com/@martialcoder">Dev Blog</a><br>
-📌   <a href="https://medium.com/@martialcoder">LinkedIn</a><br>
+📌   <a href="https://www.linkedin.com/in/surajsahani/">LinkedIn</a><br>
 📌   <a href="https://medium.com/@martialcoder">Email</a><br>
 📌   <a href="https://medium.com/@martialcoder">Resume</a>
