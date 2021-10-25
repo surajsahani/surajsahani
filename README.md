@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-👨‍🎓 &ensp;I am Suraj Sahani, an graduate at MDU, Rhotak.<br>🔭&ensp;Mostly working on Android, Kotlin!<br>🌱&ensp;-I’m currently learning System Design, Design Patterns and Jetpack Compose.<br>💬&ensp;Ask me about Android Development<br>🥋&ensp;When I'm not coding, you find me on practicing Kyokushin!<br>📫&ensp;How to reach me: surajkumarsahani1997@gmail.com 
+👨‍🎓 &ensp;I am Suraj Sahani, an graduate at MDU, Rhotak.<br>🔭&ensp;Mostly working on Android, Kotlin!<br>🌱&ensp;-I’m currently learning System Design, Design Patterns and Jetpack Compose.<br>💬&ensp;Ask me about Android Development<br>🥋&ensp;When I'm not coding, you find me on practicing Kyokushin!<br>
 
 Links where you can find me!<br>
 📌   <a href="https://surajsahani.github.io/">Website</a><br>
