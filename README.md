@@ -15,3 +15,19 @@ Links where you can find me!<br>
 
 <details>
   <summary markdown="span">👀 Here's some trivia about me: </summary>
+     Here's some trivia about me:
+
+     * I am impacient and I do not ask for permission. I turn ideas into actionable items and I will make sure you are involved.
+     * I enjoy receiving public praise, but private praise fuels me.
+     * I can think about things from an engineer's mindset.
+     * I am strong with program planning and documentation. I **love** taking notes during meetings. ✍️
+     * I have a strong sense of ownership when it comes to work. Related to that, I do not like inefficiency and will look for any way to improve that.
+     * I value stability and predictablity - I hate feeling uncomfortable. Sometimes I can react negatively to change but I do my best to embrace it and keep a positive mindset. I recognize that growing means feeling uncomfortable.
+     * English is not my native language which can affect how I verbally express myself. I experience a lot of non-linear thinking in a mixture of Portuguese and English, which reflects in my choice of words or sentence structure. In other words, I think as I speak.
+     * I have always been a designer. Altought I am extremely fulfilled, I'd still like to experiment with a different career in the future.
+     * Prior to GitLab, I was an UI Engineer building Apple's very first web application style guide. That experience shaped me into the person and professional I am today. 
+     * All those years working as a visual designer gave me a _pixel-perfect_ eyesight. It's both a blessing and a curse.
+     * As designer, I am responsible for the product as a whole. You will see me involved in many, many different fronts: from process to hands-on coding.
+     * I prototype low-fidelity first. You will not see me delivering pixel-perfect visuals until they are required in the development process. I prefer to gather ideas and work on them in words before delivering any "designs".
+
+</details>
