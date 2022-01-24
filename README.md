@@ -12,3 +12,5 @@ Links where you can find me!<br>
 📌   <a href="https://www.linkedin.com/in/surajsahani/">LinkedIn</a><br>
 📌   <a href="surajkumarsahani1997@gmail.com">Email</a><br>
 📌   <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:252959aa-8230-4a96-9858-eea6c6066646">Resume</a>
+
+ Here's some trivia about me:
