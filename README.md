@@ -18,6 +18,13 @@ Links where you can find me!<br>
 <a href="https://github.com/sponsors/skydoves"><img alt="Sponsors" src="https://skydoves.github.io/badges/badge_sponsors.svg"/></a>
 </br></br> -->
 
+NAME: github
+LABEL: 'GitHub'
+ICON: 'github'
+STATUS: 'BYOBTest'
+COLOR: blue
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 <details>
   <summary markdown="span">👀 Here's some trivia about me: </summary>
      Here's some trivia about me:
