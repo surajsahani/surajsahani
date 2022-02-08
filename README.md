@@ -12,6 +12,11 @@ Links where you can find me!<br>
 📌   <a href="https://www.linkedin.com/in/surajsahani/">LinkedIn</a><br>
 📌   <a href="surajkumarsahani1997@gmail.com">Email</a><br>
 📌   <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:252959aa-8230-4a96-9858-eea6c6066646">Resume</a>
+<a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a> 
+<a href="https://devlibrary.withgoogle.com/authors/skydoves"><img alt="Google Developers" src="https://skydoves.github.io/badges/google-developers-jaewoong.svg"/></a> 
+<a href="https://medium.com/@skydoves"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
+<a href="https://github.com/sponsors/skydoves"><img alt="Sponsors" src="https://skydoves.github.io/badges/badge_sponsors.svg"/></a>
+</br></br>
 
 <details>
   <summary markdown="span">👀 Here's some trivia about me: </summary>
