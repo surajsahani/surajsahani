@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-👨‍🎓 &ensp;My name is Suraj Sahani and i'm Android Software Engineer, an avid Open Source Contributor .Prior to this, I was working as the QA Tester with Android teams.<br> &ensp; ✈️ Hire me for remote work & internships :) <br>💻 &ensp;Currently, Working on ARCore, Android & iOS Enthusiast.<br>🔭&ensp;Mostly working on Android, Kotlin!<br>🌱&ensp;I’m  learning System Design, Design Patterns and Jetpack Compose.<br>💬&ensp;Ask me about Android Development<br>🥋&ensp;When I'm not coding, you find me on practicing Kyokushin!<br>
+👨‍🎓 &ensp;My name is Suraj Sahani and i'm Android Software Engineer, an avid Open Source Contributor .Prior to this, I was working as the QA Tester with Android teams.<br> ✈️ &ensp;  Hire me for remote work & internships :) <br>💻 &ensp;Currently, Working on ARCore, Android & iOS Enthusiast.<br>🔭&ensp;Mostly working on Android, Kotlin!<br>🌱&ensp;I’m  learning System Design, Design Patterns and Jetpack Compose.<br>💬&ensp;Ask me about Android Development<br>🥋&ensp;When I'm not coding, you find me on practicing Kyokushin!<br>
 
 Links where you can find me!<br>
 📌   <a href="https://surajsahani.github.io/">Website</a><br>
