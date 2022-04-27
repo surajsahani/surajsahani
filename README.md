@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-👨‍🎓 &ensp;I work as a Android Software Engineer, an avid Open Source Contributor .Prior to this, I was working as the <del>QA Tester</del>  with Android teams.<br> ✈️ &ensp;  Hire me for remote work & internships :) <br>🔭&ensp;Mostly working on Android, Kotlin!<br>🌱&ensp;I’m  learning Web3, Blockchain.<br>💬&ensp;Ask me about Android Development<br>🥋&ensp;When I'm not working, you can find me practicing Kyokushin!<br>
+👨‍🎓 &ensp;I work as a Android Software Engineer, an avid Open Source Contributor Merged PR @Kotlin-Dokka @Flutter @curiousJr .Prior to this, I was working as the <del>QA Tester</del>  with Android teams.<br> ✈️ &ensp;  Hire me for remote work & internships :) <br>🔭&ensp;Mostly working on Android, Kotlin!<br>🌱&ensp;I’m  learning Web3, Blockchain.<br>💬&ensp;Ask me about Android Development<br>🥋&ensp;When I'm not working, you can find me practicing Kyokushin!<br>
 
 Links where you can find me!<br>
 📌   <a href="https://surajsahani.github.io/">Website</a><br>
