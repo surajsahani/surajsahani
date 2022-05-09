@@ -2,7 +2,7 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/samycici/)](https://dev.to/surajsahani)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samantacici/)](https://www.linkedin.com/in/surajsahani/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/samantacicilia)](https://twitter.com/martial_coder)
-[![Medium Badge](https://img.shields.io/badge/-@samantacicilia-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@samantacicilia)](https://medium.com/@martialcoder)
+[![Medium Badge](https://img.shields.io/badge/-@samantacicilia-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@surajsahani)](https://medium.com/@martialcoder)
 <!--
 **surajsahani/surajsahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
