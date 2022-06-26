@@ -47,8 +47,8 @@ Links where you can find me!<br>
      * I am strong with program planning and documentation. I **love** taking notes during meetings. ✍️
      * I have a strong sense of ownership when it comes to work. Related to that, I do not like inefficiency and will look for any way to improve that.
      * I value stability and predictablity - I hate feeling uncomfortable. Sometimes I can react negatively to change but I do my best to embrace it and keep a positive mindset. I recognize that growing means feeling uncomfortable.
-     * English is not my native language which can affect how I verbally express myself. I experience a lot of non-linear thinking in a mixture of Portuguese and English, which reflects in my choice of words or sentence structure. In other words, I think as I speak.
-     * I have always been a designer. Altought I am extremely fulfilled, I'd still like to experiment with a different career in the future.
+     * English is not my native language which can affect how I verbally express myself. I experience a lot of non-linear thinking in a mixture of Assamese and English, which reflects in my choice of words or sentence structure. In other words, I think as I speak.
+     * I'm a sports enthusiast. , I have always been a creator. Altought I am extremely fulfilled, I'd still like to experiment with a different career in the future.
      * Prior to Android, I was an QA Engineer testing  very first android application codebase. That experience shaped me into the person and professional I am today. 
      * All those years working as a assurance engineer gave me a _pixel-perfect_ awareness. It's both a blessing and a curse.
      * As engineer, I am responsible for the product as a whole. You will see me involved in many, many different fronts: from process to hands-on coding.
