@@ -24,7 +24,7 @@ Links where you can find me!<br>
 <a href="https://github.com/sponsors/skydoves"><img alt="Sponsors" src="https://skydoves.github.io/badges/badge_sponsors.svg"/></a>
 </br></br> -->
 
- <h2 align="center"><b>🛠 Technologies I am good at </b></h2>
+ <h2 align="center"><b>🛠 Language I am good at </b></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
