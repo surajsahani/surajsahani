@@ -39,20 +39,6 @@ Links where you can find me!<br>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-# Recent Activity :zap:
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2197](https://github.com/open-metadata/OpenMetadata/pull/2197) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗️ Closed issue [#2040](https://github.com/open-metadata/OpenMetadata/issues/2040) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗️ Closed issue [#2028](https://github.com/open-metadata/OpenMetadata/issues/2028) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗️ Closed issue [#2156](https://github.com/open-metadata/OpenMetadata/issues/2156) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#2156](https://github.com/open-metadata/OpenMetadata/issues/2156) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#2154](https://github.com/open-metadata/OpenMetadata/pull/2154) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❗️ Closed issue [#2087](https://github.com/open-metadata/OpenMetadata/issues/2087) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ❗️ Opened issue [#2156](https://github.com/open-metadata/OpenMetadata/issues/2156) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Opened issue [#2147](https://github.com/open-metadata/OpenMetadata/issues/2147) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Closed issue [#1876](https://github.com/open-metadata/OpenMetadata/issues/1876) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-<!--END_SECTION:activity-->
 
 
 <details>
