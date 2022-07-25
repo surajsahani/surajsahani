@@ -39,6 +39,10 @@ Links where you can find me!<br>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
+<h3> Recent Activity </h3>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <details>
   <summary markdown="span">👀 Here's some trivia about me: </summary>
      Here's some trivia about me:
