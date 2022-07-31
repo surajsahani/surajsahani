@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-👨‍🎓 &ensp;I work as a Android Engineer <img src="https://github.com/1ud0v1c/1ud0v1c/blob/master/android.png" height=20 /> an avid Open Source Contributor .Prior to this, I was working as the  Agile software developer process and source control.<br> ✈️ &ensp;  Hire me for remote work & internships :) <br>🔭&ensp;Mostly working on Android, Kotlin!<br>🌱&ensp;I’m  learning Web3, Blockchain.<br>💬&ensp;Ask me about Ask me about test automation and software quality , Android Development<br> 👨‍💼&ensp; founder on <a href="https://reefresh.space/" target="_blank">ree.fresh</a> and Owner <a href="https://github.com/ayudanteIndia" target="_blank">ayudante</a>
+👨‍🎓 &ensp;I work as a Android Engineer <img src="https://github.com/1ud0v1c/1ud0v1c/blob/master/android.png" height=20 /> an avid Open Source Contributor .Prior to this, I was working as the  Agile software developer process and source control.<br> ✈️ &ensp;  Hire me for remote work & internships :) <br>🔭&ensp;Mostly working on Android, Kotlin!<br>🌱&ensp;I’m  learning Web3, Blockchain.<br>💬&ensp;Ask me anything about test automation and software quality , Android Development, Kyokushin, dogs and cooking<br> 👨‍💼&ensp; founder on <a href="https://reefresh.space/" target="_blank">ree.fresh</a> and Owner <a href="https://github.com/ayudanteIndia" target="_blank">ayudante</a>
  <br> 🥋&ensp;  When I'm not working, you can find me practicing Kyokushin!<br>
 
 
