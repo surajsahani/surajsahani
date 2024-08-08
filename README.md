@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-👨‍🎓 &ensp;I work as a Android Engineer <img src="https://github.com/1ud0v1c/1ud0v1c/blob/master/android.png" height=20 /> an avid Open Source Contributor .Prior to this, I was working as the  Agile software developer process and source control.<br> ✈️ &ensp;  I am currently working at Android :) <br>🔭&ensp;Mostly working on Android, Kotlin, Flutter!<br>🌱&ensp;I’m  learning Web3, Blockchain.<br>💬&ensp;Ask me anything about test automation and software quality , Android Development, Kyokushin, dogs and cooking <br> 🥋&ensp;  When I'm not working, you can find me practicing Kyokushin!<br>
+👨‍🎓 &ensp;I work as a Android Engineer <img src="https://github.com/1ud0v1c/1ud0v1c/blob/master/android.png" height=20 /> an avid Open Source Contributor .Prior to this, I was working as the  Agile software developer process and source control.<br> ✈️ &ensp;  I am currently working at Android :) <br>🔭&ensp;Mostly working on Android, Kotlin, Flutter!<br>🌱&ensp;I’m  learning AI and LLM.<br>💬&ensp;Ask me anything about test automation and software quality , Android Development, Kyokushin, dogs and cooking <br> 🥋&ensp;  When I'm not working, you can find me practicing Kyokushin!<br>
 
 
 Links where you can find me!<br>
