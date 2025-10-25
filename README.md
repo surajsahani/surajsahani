@@ -36,6 +36,7 @@ Links where you can find me!<br>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+ [![An image of @surajsahani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajsahani)](https://holopin.io/@surajsahani)
 </p>
 
 
