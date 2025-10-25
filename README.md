@@ -18,11 +18,7 @@ Links where you can find me!<br>
 📌   <a href="https://www.linkedin.com/in/surajsahani/">LinkedIn</a><br>
 📌   <a href="surajkumarsahani1997@gmail.com">Email</a><br>
 📌   <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:252959aa-8230-4a96-9858-eea6c6066646">Resume</a>
-<!-- <a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a> 
-<a href="https://devlibrary.withgoogle.com/authors/skydoves"><img alt="Google Developers" src="https://skydoves.github.io/badges/google-developers-jaewoong.svg"/></a> 
-<a href="https://medium.com/@skydoves"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
-<a href="https://github.com/sponsors/skydoves"><img alt="Sponsors" src="https://skydoves.github.io/badges/badge_sponsors.svg"/></a>
-</br></br> -->
+
 
  <h2 align="center"><b>🛠 Language I am good at </b></h2>
 
@@ -36,9 +32,11 @@ Links where you can find me!<br>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
- [![An image of @surajsahani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajsahani)](https://holopin.io/@surajsahani)
 </p>
 
+## 🏆 My Holopin Badges
+
+[![An image of @surajsahani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajsahani)](https://holopin.io/@surajsahani)
 
 
 <details>
